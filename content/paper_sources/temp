@@ -1,0 +1,39 @@
+https://arxiv.org/abs/2103.10211
+Space-Time Crop & Attend: Improving Cross-modal Video Representation Learning
+Worked on improving encoding for spatial invariances
+Used a contextualized pooling function based on transformers to preserve temporal ordering
+67% on HMDB-51 and 93.1% on UCF-101
+
+https://arxiv.org/pdf/2103.10139.pdf
+Learning Multimodal Affinities for Textual Editing on Images
+Created new dataset with document images
+used style-based features, content-based features, and geometric features
+
+https://arxiv.org/pdf/2103.09879.pdf
+Self-Supervised Learning of Audio Representations from Permutations of Differentiable Ranking
+Shuffling spectrogram patch as a pretext task
+
+https://arxiv.org/pdf/2103.09410.pdf
+Contrastive Learning of Musical Representations
+Applied contrastive learning framework for images to musical audio
+
+https://arxiv.org/pdf/2103.10699.pdf
+Audio Video Text for Retrieval
+
+https://arxiv.org/pdf/2103.16559v1.pdf
+DeepMind's Broaden Your View using Audio Video (BYOL style for predicting narrow and broad views of the video)
+
+https://arxiv.org/pdf/2103.15691.pdf
+Video ViT from Google (new Kinetics600 sota, supervised, pretrained on imagenet)
+
+https://arxiv.org/pdf/2104.01778.pdf
+Audio Spectrogram Transformer, ViT 16x16 patch, pretrain IMnet, 128x100t specs, 0.458 mAP Audioset sota
+
+https://arxiv.org/pdf/2007.14937.pdf
+Very similar to lava from web-supervision using Youtube tags, K700 top1 is 63%
+
+https://arxiv.org/pdf/2102.12443v2.pdf
+Using CLIP for frame-wise encoding of videos for retrieval
+
+https://arxiv.org/pdf/2104.08860v1.pdf
+Basically same description as the above paper
