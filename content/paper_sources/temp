@@ -37,3 +37,18 @@ Using CLIP for frame-wise encoding of videos for retrieval
 
 https://arxiv.org/pdf/2104.08860v1.pdf
 Basically same description as the above paper
+
+https://arxiv.org/pdf/2103.06508v3.pdf
+Contrastive learning for audio (spect MFCC raw audio learned contrastively)
+
+https://arxiv.org/pdf/2104.13921.pdf
+Using CLIP for vision language distillation to RCNN models for zero-shot detection
+
+https://arxiv.org/pdf/1812.03982.pdf
+SlowFast Networks for Video Learning (slow is lower fps/res, fast is higher fps/res)
+
+https://arxiv.org/pdf/2104.12533.pdf
+Vision-friendly transformer
+
+https://arxiv.org/pdf/2104.11227.pdf
+Multi-scale Vision Transformers
